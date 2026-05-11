@@ -1,10 +1,10 @@
-# HSF302 - Trần Văn Thuận | SE20A10
+# HSF302 - Trần Văn Thuần | SE20A10
 
 Tài liệu và bài tập môn **HSF302** tại FPT University.
 
 ## Thông tin sinh viên
 
-| Họ và tên | Trần Văn Thuận |
+| Họ và tên | Trần Văn Thuần |
 |-----------|----------------|
 | Lớp | SE20A10 |
 | Môn học | HSF302 |
